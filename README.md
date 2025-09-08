@@ -17,14 +17,6 @@ This pattern is especially useful when:
 - The head itself might be deleted.
 - You want to avoid messy conditional logic.
 
-🧵 Pattern Summary for Your Journal:
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
 
 
 
